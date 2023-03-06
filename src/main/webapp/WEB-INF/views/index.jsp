@@ -8,5 +8,7 @@
     <h1>Hi, there (updated by dowon)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.0</h3>
+    <hr>
+    <h2>jenkins 자동 빌드 테스트하기</h2>
 </body>
 </html>
