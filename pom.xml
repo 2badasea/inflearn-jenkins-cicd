@@ -100,7 +100,7 @@
             </plugin>
 
             <!--sonarqube 학습을 위해 추가한 plugin -->
-            <!--mvn repository에 들어가서 최신버전으로 수정해준다. 3.7.1~~~ -->
+            <!--mvn repository에 들어가서 최신버전으로 수정해준다. 3.9.1~~~ -->
             <plugin>
                 <groupId>org.sonarsource.scanner.maven</groupId>
                 <artifactId>sonar-maven-plugin</artifactId>
